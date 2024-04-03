@@ -1,0 +1,97 @@
+name: e_commerce
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^3.0.0
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+#------------------- LOCAL ASSETS ----------#
+assets:
+  - assets/logos/
+  - assets/icons/brands/
+  - assets/images/
+
+#------------------- LOCAL FONTS ------------#
+fonts:
+  - family: Poppins
+    fonts:
+      - assets: assets/fonts/Coolvetica-rg.otf
+        weight: 400
+      - assets: assets/fonts/Coolvetica-rg-it.otf
+        weight: 400
+      - assets: assets/fonts/Poppins-Bold.ttf
+        weight: 400
+      - assets: assets/fonts/Poppins-BoldItalic.ttf
+        weight: 400
+      - assets: assets/fonts/Poppins-Italic.ttf
+        weight: 300
+      - assets: assets/fonts/Poppins-Light.ttf
+        weight: 300
+      - assets: assets/fonts/Poppins-LightItalic.ttf
+        weight: 300
+      - assets: assets/fonts/Poppins-Medium.ttf
+        weight: 500
+      - assets: assets/fonts/Poppins-MediumItalic.ttf
+        weight: 300
+      - assets: assets/fonts/Poppins-Regular.ttf
+        weight: 400
+      - assets: assets/fonts/Poppins-SemiBold.ttf
+      - assets: 600
+      - assets: assets/fonts/Poppins-SemiBoldItalic.ttf
+      - assets: 600
+          
+          
+          { /* sorry sir can you give some milestone to my acc, seed funding  */ }
