@@ -31,24 +31,24 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Utility package
+  http: ^1.2.1
+  intl: ^0.19.0
+  logger: ^2.2.0
+  url_launcher: ^6.2.5
 
-  
-  
+  # Icons
+  iconsax: ^0.0.8
   cupertino_icons: ^1.0.6
+  # State Management
+  get: ^4.6.6
+  get_storage: ^2.1.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  
-  
-  
-  
-  
-  flutter_lints: ^3.0.0
-
-
-
+  flutter_lints: ^3.0.2
 
 
 flutter:
@@ -92,6 +92,3 @@ fonts:
       - assets: 600
       - assets: assets/fonts/Poppins-SemiBoldItalic.ttf
       - assets: 600
-          
-          
-          { /* sorry sir can you give some milestone to my acc, seed funding  */ }
